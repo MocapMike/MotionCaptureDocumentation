@@ -1,6 +1,7 @@
 # Welcome to the Motion Capture Lab Documentation
 
-__Here we'll be following the Diataxis Framework to technical documentation. Things will be broken down into the following sections: Tutorials, How-To Guides, Explanation, and References.__  
+__Here we'll be following the Diataxis Framework to technical documentation. 
+Things will be broken down into the following sections: Tutorials, How-To Guides, Explanation, and References.__  
 
 ## Start here!
 
