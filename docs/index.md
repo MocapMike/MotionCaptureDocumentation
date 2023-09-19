@@ -1,13 +1,14 @@
 # Welcome to the Motion Capture Lab Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Here we'll be following the Diataxis Framework to technical documentation. Things will be broken down into the following sections: Tutorials, How-To Guides, Explanation, and References.  
 
-## Commands
+## Start here!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* [Tutorials]()
+* [How-To Guides]()
+* [Explanation]()
+* [References]()
+
 
 ## Project layout
 

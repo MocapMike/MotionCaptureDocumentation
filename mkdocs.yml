@@ -1,4 +1,23 @@
 site_name: Motion Capture Lab Documentation
+
+nav:
+  - Home: index.md
+  - Tutorials:
+    - Tutorial 1: tutorials/tutorial1.md
+    - Tutorial 2: tutorials/tutorial2.md
+  - How-to Guides:
+    - Guide 1: guides/guide1.md
+    - Guide 2: guides/guide2.md
+  - Explanations:
+    - Explanation 1: explanations/explanation1.md
+    - Explanation 2: explanations/explanation2.md
+  - References:
+    - Reference 1: references/reference1.md
+    - Reference 2: references/reference2.md
+  - About:
+    - About Us: about/about.md
+    - Contact Us: about/contact.md
+
 theme:
   name: material
 
