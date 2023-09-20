@@ -3,6 +3,7 @@ site_name: Motion Capture Lab Documentation
 nav:
   - Home: index.md
   - Tutorials:
+    - tutorial.md
     - Tutorial 1: tutorials/tutorial1.md
     - Tutorial 2: tutorials/tutorial2.md
   - How-to Guides:
@@ -65,6 +66,11 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+    - with-pdf:
+        enabled: true
+
 
 copyright: |
   &copy; 2023 <a href="https://github.com/mocapmike  target="_blank" rel="noopener">Michael Nguyen</a> 

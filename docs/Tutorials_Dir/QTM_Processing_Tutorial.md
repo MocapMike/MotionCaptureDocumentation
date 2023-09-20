@@ -23,7 +23,7 @@
         * Locate the toolbar with various icons.
         * Click on the icon that resembles a crosshair or target.
         * Choose "Load Aim Model...".
-        * Ensure only your desired aim model is selected.
+        * Ensure only your desired aim model is selected.md
         * Click on "OK".
 
 ### 4. Label the Data:

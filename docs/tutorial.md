@@ -1,5 +1,5 @@
 # Tutorials
 
 ## Get right into it
-* [QTM Processing Tutorial](QTM_Processing_Tutorial.md)
+* [QTM Processing Tutorial](Tutorials_Dir/QTM_Processing_Tutorial.md)
 * 
